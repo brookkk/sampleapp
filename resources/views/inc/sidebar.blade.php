@@ -1,6 +1,7 @@
 @section('sidebar')
-@parent
-<div>
-    appended to sidebar
+<div class="well">
+    <h3>Sidebar</h3>
+    this is the sidebar
 </div>
-@endsection
+@show
+
